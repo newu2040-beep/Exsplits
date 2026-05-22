@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exsplits</string>
+    <string name="add_bill">ビルを追加</string>
+    <string name="history">履歴</string>
+    <string name="favorites">お気に入り</string>
+    <string name="settings">設定</string>
+    <string name="title_hint">夕食、食料品など</string>
+    <string name="amount">金額</string>
+    <string name="currency">通貨</string>
+    <string name="paid_by">支払人</string>
+    <string name="split_type">分割タイプ</string>
+    <string name="equal">等分</string>
+    <string name="exact">正確</string>
+    <string name="percentage">パーセンテージ</string>
+    <string name="shares">シェア</string>
+    <string name="save">保存</string>
+    <string name="export">エクスポート</string>
+    <string name="copy_clipboard">クリップボードにコピー</string>
+    <string name="download_pdf">PDFをダウンロード</string>
+    <string name="download_json">JSONをダウンロード</string>
+    <string name="download_text">テキストをダウンロード</string>
+    <string name="copied">クリップボードにコピーしました！</string>
+    <string name="exported">ファイルが正常にエクスポートされました</string>
+</resources>

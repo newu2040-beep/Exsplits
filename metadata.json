@@ -1,0 +1,6 @@
+{
+  "name": "Exsplits",
+  "description": "Modern bill splitting app with multi-split features, history, and export capabilities in multiple currencies and languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

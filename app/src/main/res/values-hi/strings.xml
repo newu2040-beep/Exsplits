@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exsplits</string>
+    <string name="add_bill">बिल जोड़ें</string>
+    <string name="history">इतिहास</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="title_hint">रात का खाना, किराने का सामान, आदि।</string>
+    <string name="amount">रकम</string>
+    <string name="currency">मुद्रा</string>
+    <string name="paid_by">भुगतानकर्ता</string>
+    <string name="split_type">विभाजन का प्रकार</string>
+    <string name="equal">समान</string>
+    <string name="exact">सटीक</string>
+    <string name="percentage">प्रतिशत</string>
+    <string name="shares">हिस्सा</string>
+    <string name="save">बचाना</string>
+    <string name="export">निर्यातित करें</string>
+    <string name="copy_clipboard">क्लिपबोर्ड पर कॉपी करें</string>
+    <string name="download_pdf">पीडीएफ डाउनलोड करें</string>
+    <string name="download_json">जेएसओएन डाउनलोड करें</string>
+    <string name="download_text">टेक्स्ट डाउनलोड करें</string>
+    <string name="copied">क्लिपबोर्ड पर कॉपी किया गया!</string>
+    <string name="exported">फ़ाइल सफलतापूर्वक निर्यात की गई</string>
+</resources>

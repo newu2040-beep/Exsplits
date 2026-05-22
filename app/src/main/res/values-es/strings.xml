@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exsplits</string>
+    <string name="add_bill">Añadir factura</string>
+    <string name="history">Historia</string>
+    <string name="favorites">Favoritos</string>
+    <string name="settings">Ajustes</string>
+    <string name="title_hint">Cena, Comestibles, etc.</string>
+    <string name="amount">Cantidad</string>
+    <string name="currency">Moneda</string>
+    <string name="paid_by">Pagado por</string>
+    <string name="split_type">Tipo de división</string>
+    <string name="equal">Igual</string>
+    <string name="exact">Exacto</string>
+    <string name="percentage">Porcentaje</string>
+    <string name="shares">Acciones</string>
+    <string name="save">Guardar</string>
+    <string name="export">Exportar</string>
+    <string name="copy_clipboard">Copiar al portapapeles</string>
+    <string name="download_pdf">Descargar PDF</string>
+    <string name="download_json">Descargar JSON</string>
+    <string name="download_text">Descargar Texto</string>
+    <string name="copied">¡Copiado al portapapeles!</string>
+    <string name="exported">Archivo exportado exitosamente</string>
+</resources>

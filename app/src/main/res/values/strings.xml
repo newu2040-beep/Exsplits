@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exsplits</string>
+    <string name="add_bill">Add Bill</string>
+    <string name="history">History</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="title_hint">Dinner, Groceries, etc.</string>
+    <string name="amount">Amount</string>
+    <string name="currency">Currency</string>
+    <string name="paid_by">Paid by</string>
+    <string name="split_type">Split Type</string>
+    <string name="equal">Equal</string>
+    <string name="exact">Exact</string>
+    <string name="percentage">Percentage</string>
+    <string name="shares">Shares</string>
+    <string name="save">Save</string>
+    <string name="export">Export</string>
+    <string name="copy_clipboard">Copy to Clipboard</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="download_json">Download JSON</string>
+    <string name="download_text">Download Text</string>
+    <string name="copied">Copied to clipboard!</string>
+    <string name="exported">File exported successfully</string>
+</resources>
